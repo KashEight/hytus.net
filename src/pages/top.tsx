@@ -14,7 +14,7 @@ const Top: React.FC<{}> = () => {
             <p className="text-lg">kash / Hytus - A Bad Nerd</p>
             <p>Maybe this site will be completed someday...</p>
             <p className="text-blue-300">
-              <a href="https://github.com/kasheight/hytus.net">Source Code</a>
+              <a href="https://github.com/KashEight/hytus.net">Source Code</a>
             </p>
           </div>
         </div>
