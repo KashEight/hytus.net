@@ -16,6 +16,9 @@ const Top: React.FC<{}> = () => {
             <p className="text-blue-300">
               <a href="https://github.com/KashEight/hytus.net">Source Code</a>
             </p>
+            <p>
+              Wishlist: <a className="text-blue-300" href="https://www.amazon.jp/hz/wishlist/ls/2200472SW9BP7?ref_=wl_share">Books</a>, <a className="text-blue-300" href="https://www.amazon.jp/hz/wishlist/ls/1UG6UW8R3RQTZ?ref_=wl_share">Others (Main)</a>
+            </p>
           </div>
         </div>
       </div>
