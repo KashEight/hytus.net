@@ -6,7 +6,7 @@ const Top: React.FC<{}> = () => {
   return (
     <div className="min-h-screen">
       <div className="container mx-auto h-screen flex justify-center items-center text-center">
-        <div className="w-2/3 mx-auto flex-col">
+        <div className="w-2/3 mx-auto flex flex-col">
           <div className="flex justify-center items-center">
             <img src={ profileImage } className="profile-image" />
           </div>
